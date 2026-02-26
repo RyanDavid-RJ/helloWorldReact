@@ -1,3 +1,31 @@
-.hr h1{
-    color: blue;
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
 }
+
+.cards{
+    font-size: 36px;
+    color: rgb(20, 83, 179);
+    margin-bottom: 20px;
+}
+
+.cardImg{
+    width: 100%;
+    height: auto;
+}
+
+.cardTitle{
+    font-size: 24px;
+    color: rgb(20, 83, 179);
+    margin-top: 10px;
+}
+
+.cardDscr{
+    font-size: 18px;
+    color: rgb(20, 83, 179);
+    margin-top: 5px;
+}
+
