@@ -20,7 +20,8 @@
     /*deixar essa lista no final do lado direito*/
 
     list-style: none;
-    margin-left: auto; /*empurra a lista para o final do container*/
+    margin-left: auto;
+    /*empurra a lista para o final do container*/
     display: flex;
     gap: 20px;
 
@@ -34,4 +35,7 @@
 
 .menu li:hover {
     text-decoration: underline;
+    /*marcelo odebrecht aaaaaaaahhhhh*/
+
+
 }
